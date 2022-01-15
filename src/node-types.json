@@ -1,0 +1,15 @@
+[
+  {
+    "type": "import_statement",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "base",
+    "named": false
+  },
+  {
+    "type": "import",
+    "named": false
+  }
+]
